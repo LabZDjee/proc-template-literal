@@ -1,0 +1,31 @@
+{
+  "name": "@labzdjee/proc-template-literal",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Dynamically processes a literal template string",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node --experimental-modules test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LabZDjee/proc-template-literal.git"
+  },
+  "keywords": [
+    "literal",
+    "template",
+    "string",
+    "back-tick",
+    "backtick"
+  ],
+  "author": "G. Gauthier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LabZDjee/proc-template-literal/issues"
+  },
+  "homepage": "https://github.com/LabZDjee/proc-template-literal#readme",
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "round-to": "^5.0.0"
+  }
+}
